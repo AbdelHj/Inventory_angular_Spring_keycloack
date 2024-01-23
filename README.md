@@ -3,4 +3,5 @@
 ![image](https://github.com/AbdelHj/Inventory_angular_Spring_keycloack/assets/4082723/fc575b84-8278-4153-bd8c-434458012e36)
 ![image](https://github.com/AbdelHj/Inventory_angular_Spring_keycloack/assets/4082723/c552f902-3929-43a4-af72-03e1b811e65b)
 ![image](https://github.com/AbdelHj/Inventory_angular_Spring_keycloack/assets/4082723/1f1bebd1-27a5-4d8c-b131-7722bea55912)
+![image](https://github.com/AbdelHj/Inventory_angular_Spring_keycloack/assets/4082723/027a6aab-1503-4038-a1e7-aecbef186841)
 
